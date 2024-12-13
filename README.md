@@ -53,7 +53,7 @@ This project is valuable for:
 Open a terminal and run the following command to clone the repository to your local machine:
 
 ```bash
-git clone https://github.com/your-username/your-repo-name.git
+git clone https://github.com/hafizabdulhaseeb/Exploring-the-Role-of-Depth-and-Width-on-the-Performance-of-MLP
 
 
 ---
